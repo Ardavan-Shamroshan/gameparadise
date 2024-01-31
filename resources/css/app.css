@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: YekanBakhFaNumRegular;
+    font-weight: 500;
+    src: url(../../public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.eot);
+    src: url(../../public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.eot?#iefix) format("embedded-opentype"), url(../../public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.woff) format("woff"), url(../../public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.ttf) format("truetype")
+}

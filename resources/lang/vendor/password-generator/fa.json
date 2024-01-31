@@ -1,0 +1,21 @@
+{
+    "Uppercase": "حروف بزرگ",
+    "Lowercase": "حروف کوچک",
+    "Numbers": "اعداد",
+    "Length": "طول",
+    "Symbols": "نماد ها",
+    "Include :Option": "شامل :Option",
+    "Exclude :Option": "به جز :Option",
+    "Decrease :Option": "کاهش :Option",
+    "Increase :Option": "افزایش :Option",
+    "Hide :Name": "پنهان :Name",
+    "Show :Name": "نمایش :Name",
+    "Copy :Name": "رونوشت :Name",
+    "Copied!": "رونوشت شد!",
+    "Regenerate :Name": "باز تولید :Name",
+    ":Name has been copied.": ":Name رونوشت شد.",
+    "Nothing to copy, type or generate a :name.": "چیزی برای رونوشت وجود ندارد، یک :Name بنویسید یا تولید کنید.",
+    "Can't generate a :name if no options are enabled.": "نمیتوان :Name, اگر هیچ گزینه ای انتخاب نشده باشد تولید کرد",
+    "Maximum generated :name length is: :length": "حداکثر طول  Name: است :Length",
+    "Minimum generated :name length is: :length": "حداقل طول  Name: است :Length:"
+}

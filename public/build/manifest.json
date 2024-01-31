@@ -1,0 +1,24 @@
+{
+  "public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.eot": {
+    "file": "assets/Yekan-Bakh-FaNum-05-Medium-f5c6a1ae.eot",
+    "src": "public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.eot"
+  },
+  "public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.ttf": {
+    "file": "assets/Yekan-Bakh-FaNum-05-Medium-0453cc6d.ttf",
+    "src": "public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.ttf"
+  },
+  "public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.woff": {
+    "file": "assets/Yekan-Bakh-FaNum-05-Medium-d807027d.woff",
+    "src": "public/assets/font/yekanbakh/Yekan-Bakh-FaNum-05-Medium.woff"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-0fc07cc0.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-5e70e179.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
